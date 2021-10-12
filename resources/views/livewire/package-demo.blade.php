@@ -51,7 +51,7 @@
                     </div>
                 </div>
                 <div class="text-center">
-                    <span class="text-sm text-gray-700 hover:text-gray-900" underline>Build by <a href="https:twitter.com/techtailor" target="_blank">@TechTailor</a></span>
+                    <span class="text-sm text-gray-700 hover:text-gray-900" underline>Build by <a href="https://twitter.com/techtailor" target="_blank">@TechTailor</a></span>
                 </div>
             </div>
             <div class="col-span-12 sm:col-span-6 md:col-span-9">
